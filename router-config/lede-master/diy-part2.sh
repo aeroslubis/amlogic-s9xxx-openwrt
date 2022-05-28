@@ -54,3 +54,4 @@ svn co https://github.com/ophub/luci-app-amlogic/trunk/luci-app-amlogic package/
 #
 # ------------------------------- Other ends -------------------------------
 
+https://github.com/BH4EHN/openwrt-cloudflared.git package/cloudflared
